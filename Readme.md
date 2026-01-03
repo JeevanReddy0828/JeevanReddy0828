@@ -6,7 +6,7 @@
 🎓 I hold a **Master's in Computer Science** from the **University of Florida** and a **B.Tech in Artificial Intelligence** from Amity University.  
 💼 Currently working as a **Software Engineer at Apple** (via Slesha Inc.), building scalable microservices and event-driven systems.  
 ☁️ **AWS ML Associate Certified** — experienced with Lambda, API Gateway, DynamoDB, and cloud-native architectures.  
-🤖 Passionate about **GenAI, RAG systems, and LLM-powered applications** — always exploring the intersection of software engineering and AI.  
+🤖 Passionate about **GenAI, RAG systems, and LLM-powered applications**; always exploring the intersection of software engineering and AI.  
 🚀 I love turning complex problems into elegant, production-ready solutions.
 
 ---
@@ -53,21 +53,12 @@ RESTful payment processing backend with JWT auth, digital wallets, and webhook i
 
 ---
 
-## 📈 GitHub Stats
-
-![Jeevan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeevanReddy0828&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddy0828&layout=compact&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddy0828&theme=tokyonight)](https://git.io/streak-stats)
-
----
 
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balareddy177/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeevanReddy0828)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:balashowrijeevan4@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlagadda.jeevan@gmail.com)
 
 ---
 
