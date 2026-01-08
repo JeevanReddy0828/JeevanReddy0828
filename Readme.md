@@ -42,11 +42,17 @@
 ### 🔍 [Local RAG Chat System](https://github.com/JeevanReddy0828/Local-RAG-Chat-API)
 A local Retrieval-Augmented Generation system using Mistral-7B, FAISS, and FastAPI for document-grounded Q&A without external APIs.
 
-### 🧠 [Facially Expressive GenAI Mental Health Avatar](https://github.com/JeevanReddy0828/Facially-Expressive-GenAI-Mental-Health-Avatar)
-Master's research project — emotion-aware conversational AI with GPT-3.5, LangChain, VAE-generated facial expressions, and lip-sync.
+### 🧠 [Agentic Job Application Copilot](https://github.com/JeevanReddy0828/Agentic-AI-JOB-CoPilot)
+An end-to-end agentic AI system that helps you tailor job applications using a plan → execute → verify workflow.
 
 ### 🤖 [Research-HUB — Multi-Agent AI Assistant](https://github.com/JeevanReddy0828/Research-HUB)
 Multi-agent research assistant using LangGraph and LangChain for orchestrated research, analysis, and report generation.
+
+### 💳 [Credit Card Fraud Detection System](https://github.com/JeevanReddy0828/Financial-Transaction-Fraud-Detection-System))
+Production-ready ML pipeline for detecting fraudulent credit card transactions using the Kaggle Credit Card Fraud Detection Dataset with industry-standard evaluation metrics.
+
+### 💳 [End-to-End Personalization & Recommender System](https://github.com/JeevanReddy0828/Recommendation-System)
+A production-ready recommendation system implementing collaborative filtering, learning-to-rank models, and real-time inference APIs. Built and tested on MovieLens 100K-style data (100,000 ratings from 943 users on 1,682 movies).
 
 ### 💳 [Payments API](https://github.com/JeevanReddy0828/Python-payments-api)
 RESTful payment processing backend with JWT auth, digital wallets, and webhook integration — containerized with Docker.
