@@ -48,7 +48,7 @@ An end-to-end agentic AI system that helps you tailor job applications using a p
 ### 🤖 [Research-HUB — Multi-Agent AI Assistant](https://github.com/JeevanReddy0828/Research-HUB)
 Multi-agent research assistant using LangGraph and LangChain for orchestrated research, analysis, and report generation.
 
-### 💳 [Credit Card Fraud Detection System](https://github.com/JeevanReddy0828/Financial-Transaction-Fraud-Detection-System))
+### 💳 [Credit Card Fraud Detection System](https://github.com/JeevanReddy0828/Financial-Transaction-Fraud-Detection-System)
 Production-ready ML pipeline for detecting fraudulent credit card transactions using the Kaggle Credit Card Fraud Detection Dataset with industry-standard evaluation metrics.
 
 ### 💳 [End-to-End Personalization & Recommender System](https://github.com/JeevanReddy0828/Recommendation-System)
