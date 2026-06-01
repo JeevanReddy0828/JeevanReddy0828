@@ -1,82 +1,107 @@
-<h1 align="center">Hi 👋, I'm Jeevan Arlagadda</h1>
-<h3 align="center">Software Engineer | Python, FastAPI, AWS | ML/AI Enthusiast | Builder</h3>
+<!-- ===== HEADER ===== -->
+<div align="center">
+
+<a href="https://github.com/JeevanReddy0828">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;Software+Engineer+%40+RS+Technologies+%C2%B7+ex-Apple;Backend+%E2%80%A2+APIs+%E2%80%A2+LLM%2FRAG+%E2%80%A2+Agents;I+ship+AI+that+works+in+production." alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://www.linkedin.com/in/balareddy177"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://jeevan-arlagadda-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:arlagadda.jeevan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=JeevanReddy0828&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
+</div>
 
 ---
 
-🎓 I hold a **Master's in Computer Science** from the **University of Florida** and a **B.Tech in Artificial Intelligence** from Amity University.  
-💼 Currently working as a **Software Engineer at Apple** (via Slesha Inc.), building scalable microservices and event-driven systems.  
-☁️ **AWS ML Associate Certified** — experienced with Lambda, API Gateway, DynamoDB, and cloud-native architectures.  
-🤖 Passionate about **GenAI, RAG systems, and LLM-powered applications**; always exploring the intersection of software engineering and AI.  
-🚀 I love turning complex problems into elegant, production-ready solutions.
+### 👨‍💻 About me
+
+Software Engineer at **RS Technologies** (previously at **Apple** via Slesha Inc.). I build backend systems, data pipelines, and LLM-powered applications with **Python, FastAPI, and AWS**.
+
+I like systems that hold up in production: clean APIs, event-driven services, and AI features that actually ship instead of staying in a notebook. Lately I'm deep in **RAG and multi-agent systems** — making them grounded, fast, and reliable.
+
+- 📍 Austin, TX · ☁️ **AWS Certified ML Engineer – Associate** · 🎓 MS in CS, University of Florida
+- 💬 Ask me about RAG, agentic workflows, FastAPI, or event-driven backends
+- 🤝 **Open to remote backend / AI engineering roles and select freelance work**
 
 ---
 
-## 🛠️ Technical Skills
+### 🛠️ Tech stack
 
-### 💻 Programming Languages
-`Python` `C` `C++` `JavaScript` `SQL` `Go`
+<div align="center">
 
-### 🧰 Frameworks & Libraries
-`FastAPI` `Flask` `Django` `LangChain` `LangGraph`  
-`Scikit-learn` `TensorFlow` `PyTorch` `Hugging Face Transformers`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
 
-### ☁️ Cloud & DevOps
-`AWS (Lambda, API Gateway, DynamoDB, SES, EC2, CloudWatch, IAM)`  
-`Docker` `Podman` `Kubernetes` `CI/CD Pipelines` `Git` `GitHub`
-
-### 🗄️ Databases
-`MongoDB` `PostgreSQL` `MySQL` `DynamoDB` `Oracle`
-
-### 🤖 AI/ML & NLP
-`LLMs` `RAG` `GenAI` `BERT` `SpaCy` `NLTK` `XGBoost`  
-`Prompt Engineering` `Vector Databases` `FAISS`
-
-### 🔗 APIs & Tools
-`REST APIs` `GraphQL` `Kafka` `Event-Driven Architecture`  
-`Postman` `Bruno` `Pytest` `BeautifulSoup` `Scrapy`
+</div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Things I've built
 
-### 🔍 [Local RAG Chat System](https://github.com/JeevanReddy0828/Local-RAG-Chat-API)
-A local Retrieval-Augmented Generation system using Mistral-7B, FAISS, and FastAPI for document-grounded Q&A without external APIs.
+**🧠 [Evidence-Aware RAG](https://github.com/JeevanReddy0828/Evidence-Aware-RAG-research)** — `Python · DeBERTa-MNLI · FAISS`
+RAG that knows when *not* to answer. NLI-based hallucination filtering improved faithfulness by **+14.7 pp** and hit **82.4% abstention accuracy** with only **55 ms** overhead. Hybrid BM25 + dense retrieval with cross-encoder reranking.
 
-### 🧠 [Agentic Job Application Copilot](https://github.com/JeevanReddy0828/Agentic-AI-JOB-CoPilot)
-An end-to-end agentic AI system that helps you tailor job applications using a plan → execute → verify workflow.
+**🤖 [Research-HUB](https://github.com/JeevanReddy0828/Research-HUB)** — `Python · LangGraph · FastAPI`
+Multi-agent research assistant. Specialized research, analysis, and reporting agents coordinate over shared state, with FastAPI WebSocket streaming for real-time results.
 
-### 🤖 [Research-HUB — Multi-Agent AI Assistant](https://github.com/JeevanReddy0828/Research-HUB)
-Multi-agent research assistant using LangGraph and LangChain for orchestrated research, analysis, and report generation.
+**💬 [Local RAG Chat](https://github.com/JeevanReddy0828/Local-RAG-Chat-API)** — `Python · Mistral-7B · FAISS`
+Fully local RAG — no data leaves the machine. Session-aware document isolation, intent-aware retrieval (search vs. summarize), SSE streaming, and GPU/CPU fallback.
 
-### 💳 [Credit Card Fraud Detection System](https://github.com/JeevanReddy0828/Financial-Transaction-Fraud-Detection-System)
-Production-ready ML pipeline for detecting fraudulent credit card transactions using the Kaggle Credit Card Fraud Detection Dataset with industry-standard evaluation metrics.
+**💳 [Payments API](https://github.com/JeevanReddy0828/Python-payments-api)** — `FastAPI · PostgreSQL · Docker`
+Production-style payment backend — JWT auth, digital wallet, P2P transfers/refunds, async SQLAlchemy, bcrypt, and webhook handling for gateway callbacks.
 
-### 💳 [End-to-End Personalization & Recommender System](https://github.com/JeevanReddy0828/Recommendation-System)
-A production-ready recommendation system implementing collaborative filtering, learning-to-rank models, and real-time inference APIs. Built and tested on MovieLens 100K-style data (100,000 ratings from 943 users on 1,682 movies).
-
-### 💳 [Payments API](https://github.com/JeevanReddy0828/Python-payments-api)
-RESTful payment processing backend with JWT auth, digital wallets, and webhook integration — containerized with Docker.
+> More on my [profile](https://github.com/JeevanReddy0828?tab=repositories) — AgentOps AI (cut IT-ops failure rate **18% → <3%**), a fraud-detection ensemble (**0.98 ROC-AUC** on 284K transactions), and OrcDB, a Raft-based distributed key-value store handling **100K+** concurrent connections.
 
 ---
 
+### 🔭 Currently building
 
-## 🌐 Connect with Me
+- **Agentic Job-Application Copilot** — a plan → execute → verify state machine that generates ATS-aligned resume bullets and cover letters; a grounding verifier auto-rewrites any hallucinated metric. Cut the workflow from ~45 min to under 3.
+- Pushing evidence-aware RAG further — retrieval that cites and grounds every claim.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balareddy177/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JeevanReddy0828)
+---
+
+### 📊 GitHub stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JeevanReddy0828&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddy0828&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddy0828&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=JeevanReddy0828&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+
+</div>
+
+<!-- Contribution snake (requires the GitHub Action — see setup notes) -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/JeevanReddy0828/JeevanReddy0828/output/snake.svg" alt="Contribution snake" />
+</div>
+
+---
+
+### 📫 Reach me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balareddy177)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://jeevan-arlagadda-portfolio.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arlagadda.jeevan@gmail.com)
 
----
+*Open to remote roles and freelance projects — feel free to reach out.*
 
-### 🎯 What Drives Me
-
-> I'm driven by curiosity and a passion for building systems that scale.  
-> From cloud-native microservices to RAG-powered AI applications, I thrive on solving real-world problems with clean, maintainable code.  
-> Currently exploring the frontier of GenAI and LLM-powered developer tools.
-
----
-
-### ✨ Thanks for stopping by!
-
-> _"The best way to predict the future is to build it."_  
-> Feel free to explore my projects and reach out! 👨‍💻🚀
+</div>
