@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/JeevanReddy0828">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;Software+Engineer+%40+RS+Technologies+%C2%B7+ex-Apple;Building+AI-powered+applications%2C+end-to-end;LLM%2FRAG+%E2%80%A2+Agents+%E2%80%A2+APIs+%E2%80%A2+Production+AI" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=55&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;Software+Engineer+%40+RS+Technologies+%C2%B7+ex-Apple;Building+AI-powered+applications%2C+end-to-end;LLM%2FRAG+%E2%80%A2+Agents+%E2%80%A2+APIs+%E2%80%A2+Production+AI" alt="Typing intro" />
 </a>
 
 <p>
