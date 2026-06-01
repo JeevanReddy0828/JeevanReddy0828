@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://github.com/JeevanReddy0828">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;Software+Engineer+%40+RS+Technologies+%C2%B7+ex-Apple;Backend+%E2%80%A2+APIs+%E2%80%A2+LLM%2FRAG+%E2%80%A2+Agents;I+ship+AI+that+works+in+production." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Hi%2C+I'm+Jeevan+%F0%9F%91%8B;Software+Engineer+%40+RS+Technologies+%C2%B7+ex-Apple;Building+AI-powered+applications%2C+end-to-end;LLM%2FRAG+%E2%80%A2+Agents+%E2%80%A2+APIs+%E2%80%A2+Production+AI" alt="Typing intro" />
 </a>
 
 <p>
@@ -18,13 +18,13 @@
 
 ### 👨‍💻 About me
 
-Software Engineer at **RS Technologies** (previously at **Apple** via Slesha Inc.). I build backend systems, data pipelines, and LLM-powered applications with **Python, FastAPI, and AWS**.
+Software Engineer at **RS Technologies** (previously at **Apple** via Slesha Inc.). I build **AI-powered applications end-to-end** — LLM/RAG systems, intelligent agents, and the production backends that serve them, with **Python, FastAPI, and AWS**.
 
-I like systems that hold up in production: clean APIs, event-driven services, and AI features that actually ship instead of staying in a notebook. Lately I'm deep in **RAG and multi-agent systems** — making them grounded, fast, and reliable.
+I like AI that holds up in production: grounded RAG, reliable agent workflows, and the clean APIs and event-driven services behind them — features that actually ship instead of staying in a notebook.
 
 - 📍 Austin, TX · ☁️ **AWS Certified ML Engineer – Associate** · 🎓 MS in CS, University of Florida
-- 💬 Ask me about RAG, agentic workflows, FastAPI, or event-driven backends
-- 🤝 **Open to remote backend / AI engineering roles and select freelance work**
+- 💬 Ask me about RAG, agentic workflows, LLM apps, and the backends that power them
+- 🤝 **Open to remote AI / software engineering roles and select freelance work**
 
 ---
 
