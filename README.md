@@ -74,16 +74,11 @@ Production-style payment backend — JWT auth, digital wallet, P2P transfers/ref
 
 ---
 
-### 📊 GitHub stats
+### 📊 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=JeevanReddy0828&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeevanReddy0828&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeevanReddy0828&hide_border=true&theme=tokyonight" alt="GitHub streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=JeevanReddy0828&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
 
 </div>
 
